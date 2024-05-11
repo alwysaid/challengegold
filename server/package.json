@@ -1,0 +1,11 @@
+{
+  "name": "serverchallengegold",
+  "version": "1.0.0",
+  "description": "ini merupakan server yang akan digunakan untuk project challenge gold",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Said Alwy",
+  "license": "ISC"
+}
