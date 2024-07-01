@@ -1,0 +1,29 @@
+[
+    {
+        "id" : 1,
+        "donorName" : "Alwy",
+        "donorDom" : "Bandung", 
+        "donorPhone" : "081211780734",
+        "donorEmail": "alwysaid@gmail.com",
+        "valueDonate" : 20000,
+        "doaDescription" : "Bismillah bismillah"
+    },
+    {
+        "id" : 2,
+        "donorName" : "Teguh",
+        "donorDom" : "Garut", 
+        "donorPhone" : "08129873647",
+        "donorEmail": "teguhrspd@gmail.com",
+        "valueDonate" : 40000,
+        "doaDescription" : "Bismillah aminn"
+    },
+    {
+        "id" : 3,
+        "donorName" : "Raka",
+        "donorDom" : "NTT", 
+        "donorPhone" : "08123458765",
+        "donorEmail": "rakaputra@gmail.com",
+        "valueDonate" : 200000,
+        "doaDescription" : "Bismillah Nawaitu"
+    }
+]

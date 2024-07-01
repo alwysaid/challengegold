@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "titleCamp" : "Go Go Go UMKM",
+        "targetCamp" : 10000000, 
+        "classCamp" : "Pendanaan Project",
+        "durCamp" : "30 hari",
+        "subLinkCamp": "www.impact.com/gogogoUMKM",
+        "descCamp" : "Ini adalah bla bla bla",
+        "headCamp" : "testsestes"
+    },
+    {
+        "id" : 2,
+        "titleCamp" : "Go Go Go Social Enterprise",
+        "targetCamp" : 30000000, 
+        "classCamp" : "Pendanaan Project",
+        "durCamp" : "60 hari",
+        "subLinkCamp": "www.impact.com/gogogoSE",
+        "descCamp" : "Ini adalah yuhuuu",
+        "headCamp" : "yuhuuuu"
+    },
+    {
+        "id" : 3,
+        "titleCamp" : "Go Go Go NGO",
+        "targetCamp" : 50000000, 
+        "classCamp" : "Pendanaan Project",
+        "durCamp" : "90 hari",
+        "subLinkCamp": "www.impact.com/gogogoNGO",
+        "descCamp" : "Ini adalah ahayeuu",
+        "headCamp" : "awawawa"
+    }
+]

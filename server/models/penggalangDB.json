@@ -1,0 +1,29 @@
+[
+    {
+        "id" : 1,
+        "organizationName" : "Ayo Kita Peduli",
+        "organizationLocation" : "Bandung", 
+        "organizationDescription" : "Berdampak Berdaya",
+        "organizationPerson": "Nabil",
+        "organizationPersonNumber" : "081298753621",
+        "organizationIdentity" : "NGO"
+    },
+    {
+        "id" : 2,
+        "organizationName" : "BeriDampak",
+        "organizationLocation" : "Bandung", 
+        "organizationDescription" : "Dampak Baik Jadi Nyata",
+        "organizationPerson": "Raka",
+        "organizationPersonNumber" : "081245369834",
+        "organizationIdentity" : "Social Enterprise"
+    },
+    {
+        "id" : 3,
+        "organizationName" : "Suka Suka Gule",
+        "organizationLocation" : "Bandung", 
+        "organizationDescription" : "SSG Sedepnyooo",
+        "organizationPerson": "Yaoming",
+        "organizationPersonNumber" : "081586743865",
+        "organizationIdentity" : "UMKM"
+    }
+]

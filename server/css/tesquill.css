@@ -1,0 +1,32 @@
+body{
+    background-color: grey;
+}
+
+.container {
+    width: 1500px;
+    /* max-width: 100%; */
+  }
+  
+  .formgroup {
+    margin-bottom: 12px;
+    color: black;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 4px;
+  }
+  
+  input {
+    border: 1px solid #ccc;
+  }
+  
+  input,
+  .ql-editor {
+    padding: 4px;
+    font-size: 14px;
+  }
+  
+  #editor {
+    height: 130px;
+  }
